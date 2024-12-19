@@ -1,0 +1,1 @@
+This project will practice what I have learned about html and be an opportunity for me to revisit command line basics that I have learned through The Odin Project.
